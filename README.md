@@ -20,7 +20,7 @@ in the "dependencies" section add:
 {
   "dependencies": {
       ...
-      "ca.andydbc.unity-texture-packer":"https://github.com/dearamy/unity-texture-packer.git#0.0.1"
+      "cn.amy.unity-texture-packer":"https://github.com/dearamy/unity-texture-packer.git#0.0.1"
       ...
   }
 }
